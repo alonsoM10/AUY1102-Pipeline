@@ -1,4 +1,4 @@
-name: Typescript for Pull Requests
+name: Typescript for Pull Requests y Push
 
 on:
   pull_request:
