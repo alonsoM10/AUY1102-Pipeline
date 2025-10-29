@@ -9,6 +9,8 @@ on:
       - master
 
 jobs:
+  mi_primer_job_ci_cd:
+    runs-on: ubuntu-latest
   lint:
     runs-on: ubuntu-latest
     steps:
